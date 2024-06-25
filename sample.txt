@@ -1,1 +1,2 @@
-Hi, Sample Text
+Hi, Sample Text.
+Hi , adding another line.
